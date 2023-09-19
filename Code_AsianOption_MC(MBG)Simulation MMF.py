@@ -10,7 +10,7 @@ T = 1   # Tempo fino alla scadenza (in anni)
 r = 0.03662  # Tasso di interesse senza rischio Gennaio 2023 fonte https://www.bancaditalia.it/compiti/operazioni-mef/rendistato-rendiob/documenti/rendistato-2023.pdf
 volatilità = [0.1, 0.2, 0.3, 0.4, 0.5]  # Diversi livelli di volatilità
 n_simulazioni = [100, 10000, 1000000]  # Numero di simulazioni
-n_passi = 365  # Numero di passi temporali (giorni)
+n_passi = 365  # Numero di passi temporali (giorni)__(solitamente i giorni di trading sono 252)
 dt = T / n_passi  # Intervallo di tempo
 intervallo_confidenza = 0.95  # Livello di confidenza per l'intervallo di confidenza
 
