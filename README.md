@@ -46,7 +46,7 @@ These options reduce the risk of market manipulation and are less volatile than 
 
 ---
 
-![chat_1](https://raw.githubusercontent.com/fr-cm/MonteCarlo_MBG_AsianOption/refs/heads/main/Img/chart.png) ![chart_2](https://raw.githubusercontent.com/fr-cm/MonteCarlo_MBG_AsianOption/refs/heads/main/Img/chart.png)
+![chat_1](https://raw.githubusercontent.com/fr-cm/MonteCarlo_MBG_AsianOption/refs/heads/main/Img/chart.png) ![chart_2](https://raw.githubusercontent.com/fr-cm/MonteCarlo_MBG_AsianOption/refs/heads/main/Img/chart_1.png)
 
 ---
 ![Data](https://raw.githubusercontent.com/fr-cm/MonteCarlo_MBG_AsianOption/refs/heads/main/Img/data.png)
